@@ -1,4 +1,4 @@
-Tornado-Search
+#Tornado-Search
 
 
 Tornado is an Open Source Search Engine Framework(OSSEF).
@@ -18,5 +18,5 @@ make urls in items.json into a txt document.and then Spider will grab the url li
   I am writing it.
 
 ###4.Front Pages
-  We are using PHP and BootStrap to finish an easily front page.
+  We are using PHP and BootStrap to finish an easy front page.
   
