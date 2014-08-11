@@ -11,7 +11,7 @@ An Search Engine includes serveral modules:
   
 ###2.URL Pool
   In Google, they are using URL-Server to transport url to spider. In Tornado, for convenience, we save all the url to a
-txt document.After the Spider crawling, url was saved to items.json in /crawl. get_url.cpp will should be executed later to
+txt document.After the Spider crawling, url was saved to items.json in /crawl. get_url.cpp should be executed later to
 make urls in items.json into a txt document.and then Spider will grab the url list to it's start_urls[],and then start next time.
 
 ###3.Page-Analytics
