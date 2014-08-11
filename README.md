@@ -7,7 +7,7 @@ It might be completed in a few years because I was learning in SZU and may not h
 
 An Search Engine includes serveral modules:
 ###1.Spider: 
-  spider is used to crawling websites,getting urls,saving data to database.
+  Spider is used to crawling websites,getting urls,saving data to database.
   In Tornado, I am using dirbot(An open source spider written by python using scrapy) as the spider. 
   
 ###2.URL Pool
